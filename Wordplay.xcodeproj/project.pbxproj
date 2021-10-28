@@ -13,6 +13,7 @@
 		A2F61F0D2728594500A61066 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2F61F0B2728594500A61066 /* Main.storyboard */; };
 		A2F61F0F2728594600A61066 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A2F61F0E2728594600A61066 /* Assets.xcassets */; };
 		A2F61F122728594600A61066 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A2F61F102728594600A61066 /* LaunchScreen.storyboard */; };
+		A2F61F1A272AF6D900A61066 /* ViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = A2F61F19272AF6D900A61066 /* ViewController1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		A2F61F0E2728594600A61066 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A2F61F112728594600A61066 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A2F61F132728594600A61066 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A2F61F19272AF6D900A61066 /* ViewController1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				A2F61F052728594500A61066 /* AppDelegate.swift */,
 				A2F61F072728594500A61066 /* SceneDelegate.swift */,
 				A2F61F092728594500A61066 /* ViewController.swift */,
+				A2F61F19272AF6D900A61066 /* ViewController1.swift */,
 				A2F61F0B2728594500A61066 /* Main.storyboard */,
 				A2F61F0E2728594600A61066 /* Assets.xcassets */,
 				A2F61F102728594600A61066 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A2F61F1A272AF6D900A61066 /* ViewController1.swift in Sources */,
 				A2F61F0A2728594500A61066 /* ViewController.swift in Sources */,
 				A2F61F062728594500A61066 /* AppDelegate.swift in Sources */,
 				A2F61F082728594500A61066 /* SceneDelegate.swift in Sources */,
